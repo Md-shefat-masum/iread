@@ -78,7 +78,7 @@ project-root
    npm run dev
    ```
 
-   The application will be available at `http://localhost:3000`.
+   The application will be available at `http://localhost:5000`.
 
 5. **Run the Application Using Docker**:
 
@@ -88,7 +88,7 @@ project-root
      docker-compose up --build
      ```
 
-   - The application will be available at `http://localhost:3000`.
+   - The application will be available at `http://localhost:5000`.
 
 6. **Build for Production**:
 
