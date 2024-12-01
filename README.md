@@ -9,7 +9,7 @@ This project is a multi-phase website development effort. Currently, we are work
 - **Frontend**: Next.js, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Architecture**: MVC (Model-View-Controller)
-- **Database**: (Specify your database here, e.g., MySQL, MongoDB, etc.)
+- **Database**: MySQL
 - **Containerization**: Docker
 
 ## Features
