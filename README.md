@@ -1,4 +1,4 @@
-# Event and Blog Management Website
+# IREAD Online Learning Platform
 
 ## Introduction
 
@@ -128,5 +128,6 @@ project-root
 ## Future Improvements
 
 - Develop course management features.
+- AI based solutions.
 
 ---
